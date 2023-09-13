@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 0, 0);
+    font: 40px
+}
+li {
+    font-size: 20px;
+}
+
+.text-info{
+    font-size: 20px;
+}
+
